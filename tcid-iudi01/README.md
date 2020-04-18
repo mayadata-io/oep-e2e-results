@@ -12,6 +12,7 @@
 
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-gcp/-/jobs/89236">89236</a>           |  Install DOP using helm with GPD underneath           | Sat Apr 18 04:57:37 UTC 2020  | GCP | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-gcp/-/jobs/89027">89027</a>           |  Install DOP using helm with GPD underneath           | Fri Apr 17 14:41:54 UTC 2020  | GCP | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-gcp/-/jobs/88909">88909</a>           |  Install DOP using helm with GPD underneath           | Fri Apr 17 09:20:25 UTC 2020  | GCP | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-gcp/-/jobs/87889">87889</a>           |  Install DOP using helm with GPD underneath           | Thu Apr 16 14:56:49 UTC 2020  | GCP | Pass |
