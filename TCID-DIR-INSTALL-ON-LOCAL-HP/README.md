@@ -1,4 +1,4 @@
-### DOP Install on GCP
+### Install DOP using helm with SSD underneath
 
 #### Testcase
 
