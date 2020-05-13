@@ -7,6 +7,7 @@
 #### Test Result
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-aws/-/jobs/114162">114162</a>           |  Install DOP using helm with SSD underneath           | Wed May 13 12:16:25 UTC 2020  | aws | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-aws/-/jobs/114003">114003</a>           |  Install DOP using helm with SSD underneath           | Wed May 13 11:29:25 UTC 2020  | aws | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-aws/-/jobs/113594">113594</a>           |  Install DOP using helm with SSD underneath           | Wed May 13 08:21:36 UTC 2020  | aws | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-aws/-/jobs/113470">113470</a>           |  Install DOP using helm with SSD underneath           | Wed May 13 07:24:14 UTC 2020  | aws | Pass |
