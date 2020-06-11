@@ -6,3 +6,7 @@
 
 
 #### Test Result
+
+| Job ID |   Test Description         | Execution Time | Platform |Test Result   |
+ |---------|---------------------------| --------------| -------- |--------|
+ |    <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/148352">148352</a>   |  Install openebs using director           |  Thu Jun 11 19:13:30 IST 2020     |rancher  |Fail  |
