@@ -8,4 +8,5 @@
 
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/148013">148013</a>           |  Verify List of Mirror Recommendations           | Thu Jun 11 16:13:09 IST 2020  | rancher | Pass |
  |    <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/145369">145369</a>   |  Verify List of Mirror Recommendations           |  Wed Jun 10 02:55:36 IST 2020     |rancher  |Pass  |
