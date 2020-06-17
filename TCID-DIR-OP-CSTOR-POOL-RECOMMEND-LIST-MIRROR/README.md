@@ -8,6 +8,7 @@
 
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/153845">153845</a>           |  Verify List of Mirror Recommendations           | Wed Jun 17 19:05:48 IST 2020  | rancher | Fail |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/151430">151430</a>           |  Verify List of Mirror Recommendations           | Mon Jun 15 15:45:14 IST 2020  | rancher | Fail |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/150931">150931</a>           |  Verify List of Mirror Recommendations           | Mon Jun 15 03:11:22 IST 2020  | rancher | Fail |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/150257">150257</a>           |  Verify List of Mirror Recommendations           | Sat Jun 13 00:48:26 IST 2020  | rancher | Fail |
