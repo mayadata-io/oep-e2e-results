@@ -8,6 +8,7 @@
 #### Test Result
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/154883">154883</a>           |  Install openebs control plane on specific node using director           | Thu Jun 18 15:04:00 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/154644">154644</a>           |  Install openebs control plane on specific node using director           | Thu Jun 18 12:21:37 IST 2020  | konvoy | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/153987">153987</a>           |  Install openebs control plane on specific node using director           | Wed Jun 17 21:26:42 IST 2020  | konvoy | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/153838">153838</a>           |  Install openebs control plane on specific node using director           | Wed Jun 17 19:05:38 IST 2020  | rancher | Fail |
