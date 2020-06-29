@@ -7,6 +7,7 @@
 #### Test Result
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/162829">162829</a>           |  Install DOP using helm with SSD underneath           | Mon Jun 29 19:55:56 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/162699">162699</a>           |  Install DOP using helm with SSD underneath           | Mon Jun 29 16:30:36 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/162558">162558</a>           |  Install DOP using helm with SSD underneath           | Mon Jun 29 10:51:25 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-aws/-/jobs/162049">162049</a>           |  Install DOP using helm with SSD underneath           | Sat Jun 27 17:30:16 UTC 2020  | aws | Pass |
