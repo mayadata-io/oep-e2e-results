@@ -9,6 +9,7 @@
 
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/180527">180527</a>           |  Install openebs using director           | Tue Jul 21 22:31:26 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/171981">171981</a>           |  Install openebs using director           | Fri Jul 10 10:23:55 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/171498">171498</a>           |  Install openebs using director           | Thu Jul  9 15:25:38 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/171212">171212</a>           |  Install openebs using director           | Thu Jul  9 13:05:19 IST 2020  | rancher | Pass |
