@@ -8,6 +8,7 @@
 
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/193237">193237</a>           |  Verify List of Mirror Recommendations           | Wed Aug  5 17:49:53 IST 2020  | konvoy | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/192770">192770</a>           |  Verify List of Mirror Recommendations           | Wed Aug  5 12:03:57 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/191656">191656</a>           |  Verify List of Mirror Recommendations           | Tue Aug  4 18:10:59 IST 2020  | konvoy | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/191481">191481</a>           |  Verify List of Mirror Recommendations           | Tue Aug  4 15:52:24 IST 2020  | rancher | Pass |
