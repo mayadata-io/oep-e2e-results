@@ -7,6 +7,7 @@
 #### Test Result
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/194105">194105</a>           |  Verify creation of raidz cstor pool cluster           | Thu Aug  6 19:42:11 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/193980">193980</a>           |  Verify creation of raidz cstor pool cluster           | Thu Aug  6 16:58:30 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/193920">193920</a>           |  Verify creation of raidz cstor pool cluster           | Thu Aug  6 14:45:17 IST 2020  | konvoy | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/193780">193780</a>           |  Verify creation of raidz cstor pool cluster           | Thu Aug  6 12:32:37 IST 2020  | konvoy | Pass |
