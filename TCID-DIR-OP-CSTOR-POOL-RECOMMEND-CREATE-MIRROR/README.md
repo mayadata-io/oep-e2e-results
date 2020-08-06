@@ -10,6 +10,7 @@
 
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/193703">193703</a>           |  Verify creation of mirror cstor pool cluster           | Thu Aug  6 10:34:32 IST 2020  | konvoy | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/193569">193569</a>           |  Verify creation of mirror cstor pool cluster           | Thu Aug  6 10:15:27 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/193448">193448</a>           |  Verify creation of mirror cstor pool cluster           | Thu Aug  6 00:40:56 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/193235">193235</a>           |  Verify creation of mirror cstor pool cluster           | Wed Aug  5 17:49:52 IST 2020  | konvoy | Pass |
