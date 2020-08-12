@@ -9,6 +9,7 @@
 
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/198861">198861</a>           |  List Verification Without NDM           | Wed Aug 12 21:39:32 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/198796">198796</a>           |  List Verification Without NDM           | Wed Aug 12 20:58:33 IST 2020  | konvoy | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/198655">198655</a>           |  List Verification Without NDM           | Wed Aug 12 19:19:50 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/198590">198590</a>           |  List Verification Without NDM           | Wed Aug 12 19:13:44 IST 2020  | konvoy | Pass |
