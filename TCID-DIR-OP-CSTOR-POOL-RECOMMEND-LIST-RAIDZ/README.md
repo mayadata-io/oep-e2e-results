@@ -7,6 +7,7 @@
 #### Test Result
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/198597">198597</a>           |  Verify List of raidz Recommendations           | Wed Aug 12 19:13:45 IST 2020  | konvoy | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/198377">198377</a>           |  Verify List of raidz Recommendations           | Wed Aug 12 17:04:51 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/198317">198317</a>           |  Verify List of raidz Recommendations           | Wed Aug 12 16:37:26 IST 2020  | konvoy | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/198142">198142</a>           |  Verify List of raidz Recommendations           | Wed Aug 12 13:42:20 IST 2020  | rancher | Fail |
