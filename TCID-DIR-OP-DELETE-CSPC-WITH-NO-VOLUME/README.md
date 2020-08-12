@@ -7,6 +7,7 @@
 #### Test Result
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/198311">198311</a>           |  Verify deletion of CSPC with no volume           | Wed Aug 12 16:37:23 IST 2020  | konvoy | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/198141">198141</a>           |  Verify deletion of CSPC with no volume           | Wed Aug 12 13:42:21 IST 2020  | rancher | Fail |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/198076">198076</a>           |  Verify deletion of CSPC with no volume           | Wed Aug 12 13:40:14 IST 2020  | konvoy | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/197833">197833</a>           |  Verify deletion of CSPC with no volume           | Wed Aug 12 11:12:59 IST 2020  | rancher | Fail |
