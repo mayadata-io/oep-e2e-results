@@ -9,6 +9,7 @@
 
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/205004">205004</a>           |  Verify List of Stripe Recommendations           | Fri Aug 21 12:08:08 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/204936">204936</a>           |  Verify List of Stripe Recommendations           | Fri Aug 21 10:50:38 IST 2020  | konvoy | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/204811">204811</a>           |  Verify List of Stripe Recommendations           | Thu Aug 20 19:21:56 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/204685">204685</a>           |  Verify List of Stripe Recommendations           | Thu Aug 20 17:33:48 IST 2020  | rancher | Pass |
