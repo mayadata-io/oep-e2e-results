@@ -8,6 +8,7 @@
 #### Test Result
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/214191">214191</a>           |  Install OpenEBS using custom resource limits           | Mon Sep 14 13:41:31 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/213595">213595</a>           |  Install OpenEBS using custom resource limits           | Sun Sep 13 18:22:14 IST 2020  | konvoy | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/213335">213335</a>           |  Install OpenEBS using custom resource limits           | Sun Sep 13 11:26:49 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/213398">213398</a>           |  Install OpenEBS using custom resource limits           | Sun Sep 13 11:24:54 IST 2020  | konvoy | Pass |
