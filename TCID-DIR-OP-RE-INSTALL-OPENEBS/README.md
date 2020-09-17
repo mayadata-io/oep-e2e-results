@@ -9,6 +9,7 @@
 
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/216990">216990</a>           |  Install OpenEBS on a machine already OpenEBS is installed with same version using operator           | Thu Sep 17 20:13:24 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/216928">216928</a>           |  Install OpenEBS on a machine already OpenEBS is installed with same version using operator           | Thu Sep 17 17:31:57 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/216834">216834</a>           |  Install OpenEBS on a machine already OpenEBS is installed with same version using operator           | Thu Sep 17 14:30:07 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-konvoy/-/jobs/216700">216700</a>           |  Install OpenEBS on a machine already OpenEBS is installed with same version using operator           | Thu Sep 17 11:41:39 IST 2020  | konvoy | Pass |
