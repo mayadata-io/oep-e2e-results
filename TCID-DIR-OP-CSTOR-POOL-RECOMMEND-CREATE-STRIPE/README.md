@@ -9,6 +9,7 @@
 
 | Job ID |   Test Description         | Execution Time | Platform |Test Result   |
  |---------|---------------------------| --------------| -------- |--------|
+|     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/226081">226081</a>           |  Verify creation of stripe cstor pool cluster           | Tue Oct 13 16:54:05 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/226019">226019</a>           |  Verify creation of stripe cstor pool cluster           | Tue Oct 13 14:57:54 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/225806">225806</a>           |  Verify creation of stripe cstor pool cluster           | Tue Oct 13 12:01:34 IST 2020  | rancher | Pass |
 |     <a href= "https://gitlab.mayadata.io/oep/oep-e2e-rancher/-/jobs/225740">225740</a>           |  Verify creation of stripe cstor pool cluster           | Tue Oct 13 09:59:42 IST 2020  | rancher | Pass |
